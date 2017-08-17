@@ -60,6 +60,14 @@ The error message still exists. Review the Nvidia Log file *var/log/nvidia-insta
 
 So we need to download the target kernel version source file.
 
+To get the current launched kernel version
+
+``` sh
+uname -r
+```
+
+To download target kernel version:
+
 ``` sh
 dnf install kernel-devel kernel-devel-4.11-8-300.fc26x86_64
 ```
