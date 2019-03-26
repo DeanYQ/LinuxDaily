@@ -53,7 +53,8 @@ links:
 
 Search in the software with keyword ***Tweak***
 ```
-sudo apt install gnome-tweak-tool
+sudo apt install gnome-tweak-tool 
+sudo apt install gnome-shell-extensions
 ```
 
 ## Multi Media Player
